@@ -34,6 +34,7 @@
             android:layout_width="411dp"
             android:layout_height="258dp"
             android:layout_x="65dp"
+            android:onClick="showPage"
             android:layout_y="-286dp"
             android:scaleType="centerInside"
             app:layout_constraintBottom_toTopOf="@+id/sceneInfo"
